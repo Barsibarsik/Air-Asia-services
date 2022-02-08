@@ -1,0 +1,44 @@
+.page-content {
+    background: #FFFFFF;
+    padding: 40px 0;
+}
+
+.service__desc {
+    color: #303030;
+    line-height: 27px;
+    margin-bottom: 34.5px;
+    margin-right: 5px;
+}
+
+.service {
+    display: flex;
+    margin-bottom: 49px;
+}
+
+/* .service:hover {
+    background: #F4F5F5;
+}
+
+.service:hover .button {
+    background: red;
+    border: 1px solid red;
+    color: white;
+} */
+
+.services__img {
+    width: 40%;
+    margin-right: 5%;
+}
+
+.service__content {
+    flex: 1;
+}
+
+.service__title {
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: black;
+    margin-bottom: 26.5px;
+}
